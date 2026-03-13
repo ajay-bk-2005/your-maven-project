@@ -1,8 +1,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: 
+name: Default
 
 jobs:
 - job: Build
